@@ -1,5 +1,7 @@
 # premium.grammarly.account
 Get Premium Grammarly Account Free
 
-[download link]([https://github.com/howtofixsolution/premium.grammarly.account/commit/918f93eafb682ac8bdb9bc74040c61a0c7eb2284])
-
+link 1:
+[download link](code)
+link 2:
+[download link](https://github.com/howtofixsolution/premium.grammarly.account/blob/ac777e4e892eacf56765f0eb23b54136947763db/code)
