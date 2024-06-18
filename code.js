@@ -92,7 +92,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1750072527.238036,
+        "expirationDate": 1750171622.163274,
         "hostOnly": false,
         "httpOnly": false,
         "name": "experiment_groups",
@@ -206,19 +206,6 @@
         "session": false,
         "storeId": null,
         "value": "d953a0c0dfde11eeb32d7d12d8689f22"
-    },
-    {
-        "domain": ".grammarly.com",
-        "expirationDate": 1718545708.412003,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "funnelType",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "free"
     },
     {
         "domain": ".grammarly.com",
