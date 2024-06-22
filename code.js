@@ -14,7 +14,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1719495742,
+        "expirationDate": 1719677836,
         "hostOnly": false,
         "httpOnly": false,
         "name": "isGrammarlyUser",
@@ -27,7 +27,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1750426942.9656,
+        "expirationDate": 1750609036.481338,
         "hostOnly": false,
         "httpOnly": true,
         "name": "grauth",
@@ -36,11 +36,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "AABNthAAU1HYUUu1N_ON9LxSko9PCp2QgEgw0lLnlK89Uqe3WLj6KRC5axsw4CtsTSyQPxOUsHFCjvkI"
+        "value": "AABNuJQN4GOcIrzkDlb8Yyh9yxNS3Ng3OpOruHfODr2JXoc1OXHSrIyMfb35RP27mnuzKx10LtxwFfUr"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1718894575.044329,
+        "expirationDate": 1719076751.564442,
         "hostOnly": false,
         "httpOnly": true,
         "name": "redirect_location",
@@ -53,7 +53,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1750426942.966472,
+        "expirationDate": 1750609036.48175,
         "hostOnly": false,
         "httpOnly": true,
         "name": "last_authn_event",
@@ -62,11 +62,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "d2b54463-5dc2-4bdd-941d-e89d9725bc3e"
+        "value": "a97851ed-864e-4a7f-bf97-d50f57006d1a"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1753450940.159767,
+        "expirationDate": 1753633040.589495,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga_CBK9K2ZWWE",
@@ -75,11 +75,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GS1.1.1718890934.80.1.1718890940.54.0.0"
+        "value": "GS1.1.1719073013.82.1.1719073040.33.0.0"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1726666938,
+        "expirationDate": 1726849021,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_rdt_uuid",
@@ -105,7 +105,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1750426976.803377,
+        "expirationDate": 1750609154.226414,
         "hostOnly": false,
         "httpOnly": false,
         "name": "experiment_groups",
@@ -131,7 +131,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1750394433,
+        "expirationDate": 1750609014,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_clck",
@@ -140,11 +140,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "130qz9q%7C2%7Cfms%7C0%7C1531"
+        "value": "130qz9q%7C2%7Cfmu%7C0%7C1531"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1750426942.966161,
+        "expirationDate": 1750609036.481639,
         "hostOnly": false,
         "httpOnly": false,
         "name": "csrf-token",
@@ -153,11 +153,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "AABNtqx+hXIeL2bSxzuQ1Hg8Jdgiyi97J75XDg"
+        "value": "AABNuJQcMSwMvRUTJL5Ugr4VCEdegGw3x0vtMA"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1718977339,
+        "expirationDate": 1719159422,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_clsk",
@@ -166,11 +166,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "1rg1xiw%7C1718890939337%7C2%7C0%7Cx.clarity.ms%2Fcollect"
+        "value": "ayhln4%7C1719073022151%7C2%7C0%7Cq.clarity.ms%2Fcollect"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1726666942,
+        "expirationDate": 1726849035,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_fbp",
@@ -183,7 +183,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1753450934.826409,
+        "expirationDate": 1753633013.295179,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga",
@@ -196,7 +196,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1750426935,
+        "expirationDate": 1750609013,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_pin_unauth",
@@ -209,7 +209,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1753450938.66068,
+        "expirationDate": 1753633021.518343,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_tq_id.TV-7281365481-1.3988",
@@ -218,11 +218,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "3a43ff5d7da71912.1710185873.0.1718890939.."
+        "value": "3a43ff5d7da71912.1710185873.0.1719073022.."
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1718977334,
+        "expirationDate": 1719159413,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_uetsid",
@@ -231,11 +231,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "8173ae702e4611efa6cee92b48de84e9"
+        "value": "d68bc73030b211ef93ee913badc4de6d"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1752586934,
+        "expirationDate": 1752769013,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_uetvid",
@@ -248,7 +248,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1718894575.045128,
+        "expirationDate": 1719076751.565291,
         "hostOnly": false,
         "httpOnly": false,
         "name": "browser_info",
@@ -261,7 +261,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1718998975.044846,
+        "expirationDate": 1719181151.565028,
         "hostOnly": false,
         "httpOnly": false,
         "name": "funnelType",
@@ -274,7 +274,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1750426942.966916,
+        "expirationDate": 1750609036.481845,
         "hostOnly": false,
         "httpOnly": true,
         "name": "gac",
@@ -339,7 +339,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1718894571.912795,
+        "expirationDate": 1719076716.838027,
         "hostOnly": false,
         "httpOnly": true,
         "name": "profileToken",
