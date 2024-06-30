@@ -1,4 +1,4 @@
-[
+	[
     {
         "domain": ".grammarly.com",
         "expirationDate": 1725852740,
@@ -37,19 +37,6 @@
         "session": false,
         "storeId": null,
         "value": "AABNv-yhoozau_JelFl9JmcxIE0yXh9F90X6yZJCHyQ6F-JMyLs-jt-BelIlP0oo4_UPnr17hcp1f0jv"
-    },
-    {
-        "domain": ".grammarly.com",
-        "expirationDate": 1719682928.757428,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "redirect_location",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "eyJ0eXBlIjoiIiwibG9jYXRpb24iOiJodHRwczovL2FwcC5ncmFtbWFybHkuY29tLyJ9"
     },
     {
         "domain": ".grammarly.com",
@@ -105,7 +92,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1751215330.752301,
+        "expirationDate": 1751256810.144104,
         "hostOnly": false,
         "httpOnly": false,
         "name": "experiment_groups",
@@ -248,19 +235,6 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1719682928.757464,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "browser_info",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "CHROME:124:COMPUTER:SUPPORTED:FREEMIUM:LINUX:LINUX"
-    },
-    {
-        "domain": ".grammarly.com",
         "expirationDate": 1719787328.757309,
         "hostOnly": false,
         "httpOnly": false,
@@ -336,19 +310,6 @@
         "session": false,
         "storeId": null,
         "value": "true"
-    },
-    {
-        "domain": ".grammarly.com",
-        "expirationDate": 1719682912.111204,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "profileToken",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "\"eyJlbWFpbCI6Im5hcnV0b21heEBmdGhjYXBpdGFsLmNvbSIsInNpZ25hdHVyZSI6ImJjM2IwODhhNjhiZTMzNzcyZTRjYzkzY2UwMjBmNDY5YjMxMGM0MjcifQ==\""
     },
     {
         "domain": ".grammarly.com",
