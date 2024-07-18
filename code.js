@@ -14,7 +14,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1721721119,
+        "expirationDate": 1721824808,
         "hostOnly": false,
         "httpOnly": false,
         "name": "isGrammarlyUser",
@@ -27,7 +27,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1752652319.1717,
+        "expirationDate": 1752756008.49934,
         "hostOnly": false,
         "httpOnly": true,
         "name": "grauth",
@@ -36,11 +36,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "AABN0KtWznkModcRlsKEgKB7GhGBZiKrovtnAMgUjoUBOJAZcZrxUuJ-9RbOWNYgyre-oIlJmH-Ydvzh"
+        "value": "AABN0TgI5E9q5bCYoYADTwBcMjOCRHP-3pOzefUDPwYH82HtYYL8ngZba2Id2IHKWRFQgNUkV7w5heii"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1721119923.005023,
+        "expirationDate": 1721223613.141897,
         "hostOnly": false,
         "httpOnly": true,
         "name": "redirect_location",
@@ -53,7 +53,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1752652319.172139,
+        "expirationDate": 1752756008.499906,
         "hostOnly": false,
         "httpOnly": true,
         "name": "last_authn_event",
@@ -62,11 +62,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "fb2874cf-bf8e-4faa-9e6f-bd3edf212b62"
+        "value": "ba3bcb41-59e5-484d-b697-876ba344a1b4"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1755676323.048194,
+        "expirationDate": 1755780013.194797,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga_CBK9K2ZWWE",
@@ -75,11 +75,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GS1.1.1721114729.99.1.1721116323.5.0.0"
+        "value": "GS1.1.1721219986.100.1.1721220013.33.0.0"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1728892294,
+        "expirationDate": 1728996001,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_rdt_uuid",
@@ -105,32 +105,6 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1721201129,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "funnel_firstTouchUtmSource",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "funnel"
-    },
-    {
-        "domain": ".grammarly.com",
-        "expirationDate": 1721202685,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_gid",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "GA1.2.550137627.1721114767"
-    },
-    {
-        "domain": ".grammarly.com",
         "expirationDate": 1721721067,
         "hostOnly": false,
         "httpOnly": false,
@@ -144,7 +118,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1752652324.999377,
+        "expirationDate": 1752756017.322424,
         "hostOnly": false,
         "httpOnly": false,
         "name": "experiment_groups",
@@ -170,7 +144,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1752650730,
+        "expirationDate": 1752755986,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_clck",
@@ -179,11 +153,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "130qz9q%7C2%7Cfni%7C0%7C1531"
+        "value": "130qz9q%7C2%7Cfnj%7C0%7C1531"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1752652319.171999,
+        "expirationDate": 1752756008.499737,
         "hostOnly": false,
         "httpOnly": false,
         "name": "csrf-token",
@@ -192,11 +166,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "AABN0L6wNT4SbOGc1CMOeZFGeLGakUZwF0avXw"
+        "value": "AABN0UZGXuV8Kg97fvY4Y2Yc12QTPiYXWuDAig"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1721202695,
+        "expirationDate": 1721306404,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_clsk",
@@ -205,11 +179,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "1gyfk3c%7C1721116295165%7C17%7C0%7Ct.clarity.ms%2Fcollect"
+        "value": "z1b6li%7C1721220004822%7C2%7C0%7Cw.clarity.ms%2Fcollect"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1728892318,
+        "expirationDate": 1728996007,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_fbp",
@@ -222,7 +196,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1755676294.22665,
+        "expirationDate": 1755779986.222591,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga",
@@ -235,7 +209,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1752652294,
+        "expirationDate": 1752755986,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_pin_unauth",
@@ -248,7 +222,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1755676294.377222,
+        "expirationDate": 1755780001.82348,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_tq_id.TV-7281365481-1.3988",
@@ -257,11 +231,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "3a43ff5d7da71912.1710185873.0.1721116294.."
+        "value": "3a43ff5d7da71912.1710185873.0.1721220002.."
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1721202694,
+        "expirationDate": 1721306386,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_uetsid",
@@ -270,11 +244,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "94b153f0434411efb5b9d520d9ba148f"
+        "value": "a6244610443911ef87879fae2f836eea"
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1754812294,
+        "expirationDate": 1754915986,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_uetvid",
@@ -287,7 +261,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1721119923.005861,
+        "expirationDate": 1721223613.142426,
         "hostOnly": false,
         "httpOnly": false,
         "name": "browser_info",
@@ -300,7 +274,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1721224323.005569,
+        "expirationDate": 1721328013.142266,
         "hostOnly": false,
         "httpOnly": false,
         "name": "funnelType",
@@ -313,7 +287,7 @@
     },
     {
         "domain": ".grammarly.com",
-        "expirationDate": 1752652319.172281,
+        "expirationDate": 1752756008.500071,
         "hostOnly": false,
         "httpOnly": true,
         "name": "gac",
@@ -362,32 +336,6 @@
         "session": false,
         "storeId": null,
         "value": "isGpcEnabled=0&datestamp=Tue+Jul+16+2024+13%3A00%3A53+GMT%2B0530+(India+Standard+Time)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=IN%3BMH"
-    },
-    {
-        "domain": ".grammarly.com",
-        "expirationDate": 1721118426.443262,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "profileToken",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "\"eyJlbWFpbCI6ImZxYnRzdHRxbUB3aXJlY29ubmVjdGVkLmNvbSIsInNpZ25hdHVyZSI6IjY2YmRhOTNlZjJmZjgxZWUxN2EyZmFiMDhjYTRhN2E5MzBlM2Q3MWIifQ==\""
-    },
-    {
-        "domain": ".grammarly.com",
-        "expirationDate": 1721118457.68711,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "redirect_after_login",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "eyJydWxlIjoiaHViIiwicGFyYW1zIjp7fSwic3RhdGUiOiJaUUExQTNOVmE3c2dNTHIifQ=="
     },
     {
         "domain": ".grammarly.com",
